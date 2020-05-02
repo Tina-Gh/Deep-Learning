@@ -3,4 +3,4 @@ Here, I put my Deep learning related python codes: (This section is under constr
 
 <b>*CNN_malaria_cells_images_project.ipynb:</b>
 
-Detecting if cells are infected by malaria or not, based on a CNN. The dataset can be downloaded from the <a href="https://lhncbc.nlm.nih.gov/publication/pub9932">National Library of Medicine</a>
+Detecting if cells are infected by Malaria or not based on a Convolutional Neural Netwok. The dataset can be downloaded from the <a href="https://lhncbc.nlm.nih.gov/publication/pub9932">National Library of Medicine</a>
