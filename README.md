@@ -13,7 +13,7 @@ The dataset is "UK_foods.csv", and this code detects a country in the Uk that th
 
 The dataset can be found from <a href="https://fred.stlouisfed.org/series/IPN31152N">Industrial Production: Nondurable Goods: Ice cream and frozen dessert</a>
 
-<br>
+<hr>
 
 <strong>* 10_RNN.ipynb:</strong>
 
