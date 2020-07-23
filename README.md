@@ -15,6 +15,6 @@ The dataset can be found from <a href="https://fred.stlouisfed.org/series/IPN311
 
 <hr>
 
-<strong>* 10_RNN_google stock dataset:</strong>
+<strong>* 10_RNN_google stock dataset_Regression:</strong>
 
 (to be uploaded)
