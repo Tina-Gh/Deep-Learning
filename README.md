@@ -13,8 +13,6 @@ th, td {
 </style>
 </head>
 <body>
-
-<h2>Deep Learning applications</h2>
 <p>Different Deep Learning Methods and their applications:</p>
 
 <table style="width:100%">
