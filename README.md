@@ -17,4 +17,4 @@ The dataset can be found from <a href="https://fred.stlouisfed.org/series/IPN311
 
 <strong>* 10_RNN_google stock dataset_Regression:</strong>
 
-(to be uploaded)
+The dataset is "Google_Stock_Price_Train.csv" and "Google_Stock_Price_Test.csv". In this code I built a model using RNN to predict the Google's stock prices for January 2017, given the dataset from 2012 to 2016. The model could well follow the upward and the downward trends.
