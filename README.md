@@ -1,3 +1,56 @@
+<strong>Notes:</strong>
+
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+</style>
+</head>
+<body>
+
+<h2>Deep Learning applications</h2>
+<p>Different Deep Learning Methods and their applications:</p>
+
+<table style="width:100%">
+  <tr>
+    <th>Deep Learning Method</th>
+    <th>Application</th> 
+  </tr>
+  <tr>
+    <td>ANN</td>
+    <td>Used for Regression and Classification</td>
+  </tr>
+  <tr>
+    <td>CNN</td>
+    <td>Used for Computer Vision</td>
+  </tr>
+  <tr>
+    <td>RNN</td>
+    <td>Used for Time Series Analysis</td>
+  </tr>
+  <tr>
+    <td>Self-Organizing Maps (SOM)</td>
+    <td>Used for Feature Detection</td>
+  </tr>
+  <tr>
+    <td>Deep Boltzmann Machines</td>
+    <td>Used for Recommendation systems</td>
+  </tr>
+  <tr>
+    <td>AutoEncoders</td>
+    <td>Used for Recommendation systems</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 # Deep-Learning-Python-codes
 Here, I put my Deep learning related python codes: (This section is under construction! I am working on updating this documentry.)
 
