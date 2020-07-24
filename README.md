@@ -1,5 +1,6 @@
 <strong>Notes:</strong>
 
+<a href="https://www.superdatascience.com/pages/deep-learning" target="_blank">Super Data Sciene</a>
 <html>
 <body>
 <p>Different Deep Learning Methods and their applications:</p>
