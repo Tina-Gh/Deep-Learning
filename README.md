@@ -1,17 +1,6 @@
 <strong>Notes:</strong>
 
 <html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 15px;
-}
-</style>
-</head>
 <body>
 <p>Different Deep Learning Methods and their applications:</p>
 
