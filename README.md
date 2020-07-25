@@ -70,11 +70,11 @@ here are different ways to improve the RNN model:
 </ol>
 
 
-<strong>* 14_SOM_fraud detection:</strong>
+<strong>* 14_SOM_fraud detection.ipynb:</strong>
 
 <a href="http://www.ai-junkie.com/ann/som/som1.html" target="_blank">ai-junkie!</a>
 
-The dataset is "Credit_Card_Applications.csv". This dataset is the <a href="http://archive.ics.uci.edu/ml/support/statlog+(australian+credit+approval)" target="_blank">UCI's Statlog (Australian Credit Approval)</a> dataset.
+The dataset is "Credit_Card_Applications.csv". This dataset is the <a href="http://archive.ics.uci.edu/ml/support/statlog+(australian+credit+approval)" target="_blank">UCI's Statlog (Australian Credit Approval)</a> dataset. The fraudulent client IDs are specified at the end of the code.
 <ul>
   <li>SOMs retain topology of the input set</li>
   <li>SOMs reveal correlations that are not easily identified (feature detection)</li>
