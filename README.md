@@ -74,7 +74,7 @@ here are different ways to improve the RNN model:
 
 <a href="http://www.ai-junkie.com/ann/som/som1.html" target="_blank">ai-junkie!</a>
 
-The dataset is "Credit_Card_Applications.csv". 
+The dataset is "Credit_Card_Applications.csv". This dataset is the <a href="http://archive.ics.uci.edu/ml/support/statlog+(australian+credit+approval)" target="_blank">Statlog (Australian Credit Approval) Data Set</a>.
 <ul>
   <li>SOMs retain topology of the input set</li>
   <li>SOMs reveal correlations that are not easily identified (feature detection)</li>
