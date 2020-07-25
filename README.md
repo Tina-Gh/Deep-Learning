@@ -73,6 +73,8 @@ here are different ways to improve the RNN model:
 <strong>* 14_SOM.ipynb:</strong>
 <ul>
   <li>SOMs retain topology of the input set</li>
-  <li>SOMs reveal correlations that are not easily identified</li>
-  <li>SOMs classify data without supervision</li>
+  <li>SOMs reveal correlations that are not easily identified (feature detection)</li>
+  <li>SOMs classify data without supervision (unsupervised learning)</li>
+  <li>No target vector -> No backpropagation</li>
+  <li>No lateral connections between output nodes</li>
 </ul>
