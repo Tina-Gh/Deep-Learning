@@ -70,9 +70,11 @@ here are different ways to improve the RNN model:
 </ol>
 
 
-<strong>* 14_SOM.ipynb:</strong>
+<strong>* 14_SOM_fraud detection:</strong>
 
 <a href="http://www.ai-junkie.com/ann/som/som1.html" target="_blank">ai-junkie!</a>
+
+The dataset is "Credit_Card_Applications.csv". 
 <ul>
   <li>SOMs retain topology of the input set</li>
   <li>SOMs reveal correlations that are not easily identified (feature detection)</li>
