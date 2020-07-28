@@ -1,4 +1,4 @@
-<strong>Notes:</strong>
+<strong>*Notes:</strong>
 
 <a href="https://www.superdatascience.com/pages/deep-learning" target="_blank">Super Data Sciene</a>
 <html>
