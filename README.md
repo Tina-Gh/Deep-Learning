@@ -39,6 +39,7 @@
 </body>
 </html>
 
+<br>
 # Deep-Learning-Python-codes
 Here, I put my Deep learning related python codes: (This section is under construction! I am working on updating this documentry.)
 
@@ -69,7 +70,7 @@ here are different ways to improve the RNN model:
   <li>Adding more neurones in the LSTM layers: we highlighted the fact that we needed a high number of neurones in the LSTM layers to respond better to the complexity of the problem and we chose to include 50 neurones in each of our 4 LSTM layers. You could try an architecture with even more neurones in each of the 4 (or more) LSTM layers.</li>
 </ol>
 
-
+<br>
 <strong>* 14_SOM_fraud detection.ipynb:</strong>
 
 <a href="http://www.ai-junkie.com/ann/som/som1.html" target="_blank">ai-junkie!</a>
@@ -83,6 +84,7 @@ The dataset is "Credit_Card_Applications.csv". This dataset is the <a href="http
   <li>No lateral connections between output nodes</li>
 </ul>
 
+<br>
 <strong>* 15_SOM_Mega Case Study.ipynb:</strong>
 
 The dataset is "Credit_Card_Applications.csv". This is continuing the "14_SOM_fraud detection.ipynb" code in a hybrid mode, i.e. not only implementing a SOM (Self-Organizing maps) model but also implementing an ANN model afterwards to predict the probabilty of conducting fraudulant activity for all the Client IDs!
