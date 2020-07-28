@@ -89,4 +89,6 @@ The dataset is "Credit_Card_Applications.csv". This is continuing the "14_SOM_fr
 
 <strong>* 16_Boltzmann Machine_Recommender system.ipynb</strong>
 
+<a href="https://pytorch.org/docs/master/" target="_blank">PyTorch documentation</a>
+
 (Comming soon!)
