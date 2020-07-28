@@ -87,6 +87,7 @@ The dataset is "Credit_Card_Applications.csv". This dataset is the <a href="http
 
 The dataset is "Credit_Card_Applications.csv". This is continuing the "14_SOM_fraud detection.ipynb" code in a hybrid mode, i.e. not only implementing a SOM (Self-Organizing maps) model but also implementing an ANN model afterwards to predict the probabilty of conducting fraudulant activity for all the Client IDs!
 
+<br>
 <strong>* 16_Boltzmann Machine_Recommender system.ipynb</strong>
 
 <a href="https://pytorch.org/docs/master/" target="_blank">PyTorch documentation</a>
